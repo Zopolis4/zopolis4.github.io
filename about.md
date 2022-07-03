@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
-Discord: 
+Discord: Zopolis4#7200
 
 Email: [creatorsmithmdt@gmail.com](mailto:creatorsmithmdt@gmail.com)
