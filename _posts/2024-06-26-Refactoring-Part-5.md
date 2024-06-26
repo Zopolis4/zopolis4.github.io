@@ -1,8 +1,4 @@
----
-layout: post
-title: Refactoring Part 5: crew remove
-date: 2024-06-26
----
+# Refactoring Part 5: crew remove
 
 ## Know Thy Enemy
 

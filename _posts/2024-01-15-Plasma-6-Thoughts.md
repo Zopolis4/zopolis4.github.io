@@ -1,8 +1,4 @@
----
-layout: post
-title: Plasma 6 Thoughts
-date: 2024-01-15
----
+# Plasma 6 Thoughts
 
 ## Preamble
 

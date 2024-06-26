@@ -1,8 +1,4 @@
----
-layout: post
-title: Refactoring Part 12: crew search
-date: 2024-05-24
----
+# Refactoring Part 12: crew search
 
 ## The Setup
 
