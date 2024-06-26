@@ -1,5 +1,3 @@
-# Plasma 6 Thoughts
-
 ## Preamble
 
 With the Plasma 6 release projected to arrive on February 28th, I thought now would be a good time to take a look at some of the upcoming changes that I've been looking forward to for some time now.
